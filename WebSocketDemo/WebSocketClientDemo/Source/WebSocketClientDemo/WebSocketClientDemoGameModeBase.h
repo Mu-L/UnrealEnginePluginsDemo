@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "WebSocketDemoGameModeBase.generated.h"
+#include "WebSocketClientDemoGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class WEBSOCKETDEMO_API AWebSocketDemoGameModeBase : public AGameModeBase
+class WEBSOCKETCLIENTDEMO_API AWebSocketClientDemoGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
