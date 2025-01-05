@@ -10,7 +10,7 @@ clone code from this repo, [LINK](https://github.com/WanWanHa/MarketPlacePlugins
 and run this server
 
 # step 2, Create Websocket,    
-you can use CreateCustomWebSocket to create a websocket, and it will init steps for you, but you can still create an attribute of CustomWebSocket, and use it for any operations   
+you can use CreateWebSocketClient to create a websocket, and it will init steps for you, but you can still create an attribute of WebSocketClient, and use it for any operations   
 fill the target server address here:    
 ![image](https://user-images.githubusercontent.com/8192020/231793430-082f015a-919b-4dd7-b65c-dc98ee66b9dd.png)    
 you can set token parameter here:    

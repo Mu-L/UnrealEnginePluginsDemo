@@ -1,18 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "WebSocketDemo",
+			"Name": "WebSocketServerDemo",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
 		{
-			"Name": "WebSocket",
+			"Name": "WebSocketServer",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/586162969e9d405993c8e4b61ca93e8e"
 		}

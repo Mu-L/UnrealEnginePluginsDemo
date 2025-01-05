@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class WebSocketDemoTarget : TargetRules
+public class WebSocketClientDemoEditorTarget : TargetRules
 {
-	public WebSocketDemoTarget( TargetInfo Target) : base(Target)
+	public WebSocketClientDemoEditorTarget( TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Editor;
         DefaultBuildSettings = BuildSettingsVersion.Latest;
         IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-        ExtraModuleNames.Add("WebSocketDemo");
+        ExtraModuleNames.Add("WebSocketClientDemo");
 	}
 }
