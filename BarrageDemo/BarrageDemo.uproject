@@ -5,14 +5,14 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "WebSocketServerDemo",
+			"Name": "BarrageDemo",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
 		{
-			"Name": "WebSocketServer",
+			"Name": "Barrage",
 			"Enabled": true,
 			"FabURL": "com.epicgames.launcher://ue/Fab/product/8ab1db52-91d7-4cc6-9636-9fffe6d3fb2c"
 		}
