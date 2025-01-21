@@ -14,7 +14,7 @@
 		{
 			"Name": "WebSocketServer",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/586162969e9d405993c8e4b61ca93e8e"
+			"FabURL": "com.epicgames.launcher://ue/Fab/product/8ab1db52-91d7-4cc6-9636-9fffe6d3fb2c"
 		}
 	]
 }
