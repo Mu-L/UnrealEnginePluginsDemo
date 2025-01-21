@@ -1,5 +1,4 @@
 # Ignore all files by default, but scan all directories.
-*
 !*/
 
 # Do not ignore git files in the root of the repo.
@@ -38,7 +37,6 @@ Thumbs.db
 
 # Linux
 *~
-.directory
 
 # vim
 [._]*.s[a-w][a-z]
