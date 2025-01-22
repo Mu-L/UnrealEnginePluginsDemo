@@ -12,7 +12,7 @@
 5：非常简单易用，就一个接口    
 6：目前暂时支持 抖音弹幕   
 抖音弹幕The implementation method is that other open source software forwards the barrage information to this plugin, and then the plugin processes the information.     
-[虚幻商场插件 链接 LINK for plugin in Unreal Market](https://www.fab.com/zh-cn/portal/listings/097fe3a0-b42e-4b6c-abf4-e9b4180948c0)   
+[虚幻商场插件 链接 LINK for plugin in Unreal Market](https://www.fab.com/zh-cn/listings/b9e6f4de-49f6-4d9a-be6e-6118e38086b9)   
 
 # step 0, Douyin 抖音使用的转发工具是这个       
 https://github.com/skmcj/dycast
