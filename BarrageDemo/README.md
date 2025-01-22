@@ -1,7 +1,16 @@
 # Barrage Demo introduction
-1: support all kinds  of barrage, here we use douyin for example   
-2: easy to use, only one interface function    
-3: high performance    
+1: Supports forwarding of bullet screens from multiple live streaming platforms at the same time    
+2: The forwarding software can be deployed separately, not on the same machine, to share the pressure    
+3: The plug-in itself, multi-threaded, asynchronous mode does not block, game thread, high efficiency     
+4: Added processing for forwarded bullet screens    
+5: Very simple and easy to use, just one interface    
+6: Currently supports Douyin bullet screen    
+1：同时支持多个直播平台的弹幕的转发    
+2：可以分开转发软件的部署， 不在同一个机器，分摊压力   
+3：插件自身，多线程，异步方式不阻塞，game thread ，效率高   
+4：添加了对转发的弹幕的处理      
+5：非常简单易用，就一个接口    
+6：目前暂时支持 抖音弹幕   
 抖音弹幕The implementation method is that other open source software forwards the barrage information to this plugin, and then the plugin processes the information.     
 [虚幻商场插件 链接 LINK for plugin in Unreal Market](https://www.fab.com/zh-cn/portal/listings/097fe3a0-b42e-4b6c-abf4-e9b4180948c0)   
 
