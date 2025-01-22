@@ -3,10 +3,7 @@
 2: easy to use, only one interface function    
 3: high performance    
 抖音弹幕     
-[Video Link](https://youtu.be/PXeCDExed7k)  
-[视频教程](https://www.bilibili.com/video/BV1vA411C7dc/)  
-[虚幻商场插件 链接](https://www.unrealengine.com/marketplace/zh-CN/product/websocket)  
-[LINK for plugin in Unreal Market](https://www.unrealengine.com/marketplace/zh-CN/product/websocket)  
+[虚幻商场插件 链接 LINK for plugin in Unreal Market](https://www.fab.com/zh-cn/portal/listings/097fe3a0-b42e-4b6c-abf4-e9b4180948c0)   
 
 # step 1, Create Barrage Instance,       
 ![image](https://github.com/user-attachments/assets/43310e1c-5734-427c-b1a9-3bd3a52a8f7c)        
