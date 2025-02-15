@@ -4,7 +4,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 REM =======MAKE SURE TO ADJUST THESE PARAMETERS TO YOUR BUILD=======
 set unrealPath="C:\Program Files\Epic Games\UE_5.5\Engine\Binaries\Win64\UnrealEditor.exe"
 
-set myProject="D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.5\WebSocketDemo\WebSocketServerDemo\WebSocketServerDemo.uproject"
+set myProject="D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.5\BarrageDemo\\BarrageDemo.uproject"
 
 set map=/Game/L_Test
 set server_map=/Game/Developers/WanWanHa/Level/L_Test
