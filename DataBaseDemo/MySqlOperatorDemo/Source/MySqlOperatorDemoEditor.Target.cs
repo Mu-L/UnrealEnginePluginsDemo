@@ -1,4 +1,4 @@
-// Copyright 2025 (c) WanWanHa, LLC. All Rights Reserved.
+// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
 
 using UnrealBuildTool;
 using System.Collections.Generic;

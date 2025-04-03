@@ -1,4 +1,4 @@
-// Copyright 2025 (c) WanWanHa, LLC. All Rights Reserved.
+// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
 
 #include "MongoDBDriverDemo.h"
 #include "Modules/ModuleManager.h"
