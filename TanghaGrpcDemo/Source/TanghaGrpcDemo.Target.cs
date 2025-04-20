@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class WanWanHaGrpcDemoEditorTarget : TargetRules
+public class TanghaGrpcDemoTarget : TargetRules
 {
-	public WanWanHaGrpcDemoEditorTarget( TargetInfo Target) : base(Target)
+	public TanghaGrpcDemoTarget(TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Editor;
+		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-		ExtraModuleNames.Add("WanWanHaGrpcDemo");
+		ExtraModuleNames.Add("TanghaGrpcDemo");
 	}
 }
