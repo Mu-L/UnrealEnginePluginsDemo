@@ -19,12 +19,12 @@ if not exist %OUTPUT_PATH% (
 	exit /b 1
 )
 
-::get wwhgrpc plugin path
+::get tanghagrpc plugin path
 pushd %~dp0\..
 set WWH_UE_PLUGIN_PATH=%cd%
 popd
 
-set WWHGRPC_PLUGIN_PATH=%WWH_UE_PLUGIN_PATH%\Tools\protoc-gen-wwhgrpc.exe
+set TANGHAGRPC_PLUGIN_PATH=%WWH_UE_PLUGIN_PATH%\Tools\protoc-gen-tanghagrpc.exe
 set PROTOC_EXE_PATH=%WWH_UE_PLUGIN_PATH%\ThirdParty\protobuf\bin\protoc.exe
 set PROTOBUF_INC_PATH=%WWH_UE_PLUGIN_PATH%\ThirdParty\protobuf\include
 set GRPC_CPP_PLUGIN_EXE_PATH=%WWH_UE_PLUGIN_PATH%\ThirdParty\grpc\bin\grpc_cpp_plugin.exe
@@ -38,8 +38,8 @@ if not exist %CPP_OUTPUT_PATH% mkdir %CPP_OUTPUT_PATH%
  --proto_path="%PROTOBUF_INC_PATH%" --proto_path="%INPUT_PROTO_PATH%" ^
  --cpp_out="%CPP_OUTPUT_PATH%" ^
  --plugin=protoc-gen-grpc="%GRPC_CPP_PLUGIN_EXE_PATH%" --grpc_out=%CPP_OUTPUT_PATH% ^
- --plugin=protoc-gen-wwhgrpc="%WWHGRPC_PLUGIN_PATH%" --wwhgrpc_out="%OUTPUT_PATH%" ^
- --wwhgrpc_opt="GenerateJsonCode=true" ^
+ --plugin=protoc-gen-tanghagrpc="%TANGHAGRPC_PLUGIN_PATH%" --tanghagrpc_out="%OUTPUT_PATH%" ^
+ --tanghagrpc_opt="GenerateJsonCode=true" ^
  %INPUT_PROTO_FILE%
 
 :: fix protobuf compile warning 
