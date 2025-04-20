@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class WanWanHaGrpcDemo : ModuleRules
+public class TanghaGrpcDemo : ModuleRules
 {
-	public WanWanHaGrpcDemo(ReadOnlyTargetRules Target) : base(Target)
+	public TanghaGrpcDemo(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
