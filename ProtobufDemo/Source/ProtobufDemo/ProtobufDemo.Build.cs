@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
 
 using UnrealBuildTool;
 
