@@ -5,12 +5,9 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "TanghaGrpcDemo",
+			"Name": "ProtobufDemo",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -22,9 +19,9 @@
 			]
 		},
 		{
-			"Name": "TanghaGrpc",
+			"Name": "Protobuf",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c842374dbed84135a5376fbd5f63cf6e"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3bf2df93d5d34d95b68ba82eca0ca7e7"
 		}
 	]
 }
