@@ -10,7 +10,7 @@ Advantages of the protobuf plugin:
 
 download Tools to generate proto files: 
 [Tools.zip](https://github.com/user-attachments/files/22922885/Tools.zip)    
- .\protoc.exe --proto_path=. --cpp_out=. .\testone.proto .\testtwo.proto   
+`.\protoc.exe --proto_path=. --cpp_out=. .\testone.proto .\testtwo.proto`     
 
  
 plugin link 插件链接:    
