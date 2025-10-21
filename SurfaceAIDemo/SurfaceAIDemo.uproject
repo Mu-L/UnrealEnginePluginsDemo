@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "SurfacePathfindingDemo",
+			"Name": "SurfaceAIDemo",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
@@ -15,7 +15,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "SurfacePathfinding",
+			"Name": "SurfaceAI",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5c0c9dc63ab54c4384e7240f117891c2"
 		}

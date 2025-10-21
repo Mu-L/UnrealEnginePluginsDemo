@@ -2,13 +2,13 @@
 
 using UnrealBuildTool;
 
-public class SurfacePathfindingDemo : ModuleRules
+public class SurfaceAIDemo : ModuleRules
 {
-	public SurfacePathfindingDemo(ReadOnlyTargetRules Target) : base(Target)
+	public SurfaceAIDemo(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "RHI", "RenderCore", "SurfacePathfinding" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "RHI", "RenderCore", "SurfaceAI" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

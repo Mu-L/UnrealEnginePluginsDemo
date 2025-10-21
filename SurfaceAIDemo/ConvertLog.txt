@@ -1,0 +1,46 @@
+========== 转换日志 (Tue 10/21/2025 15:14:52.68) ========== 
+ 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavAgentComponent.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavGraph.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavSubsystem.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavTypes.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceAIClasses.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavAgentComponent.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavGraph.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavSubsystem.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceNavTypes.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAI\UHT\SurfaceAI.init.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceNavGraphBuilder.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceNavGraphFactory.generated.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceAIEditorClasses.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceNavGraphBuilder.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceNavGraphFactory.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\UnrealEditor\Inc\SurfaceAIEditor\UHT\SurfaceAIEditor.init.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAI\Definitions.SurfaceAI.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAI\Module.SurfaceAI.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAI\PerModuleInline.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAIEditor\Definitions.SurfaceAIEditor.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAIEditor\Module.SurfaceAIEditor.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\SurfaceAIEditor\PerModuleInline.gen.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavAgentComponent.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavGraph.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavSubsystem.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavTypes.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceAIModule.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavAgentComponent.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavGraph.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceNavSubsystem.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAI\SurfaceAIModule.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\AssetTypeActions_SurfaceNavGraph.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceNavGraphBuilder.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceNavGraphFactory.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceAIEditorModule.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\AssetTypeActions_SurfaceNavGraph.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceNavGraphBuilder.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceNavGraphFactory.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Plugins\SurfaceAI\Source\SurfaceAIEditor\SurfaceAIEditorModule.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Source\SurfaceAIDemo\SurfaceAIDemo.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Source\SurfaceAIDemo\SurfaceAIDemoGameModeBase.h 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Source\SurfaceAIDemo\SurfaceAIDemo.cpp 
+[Convert] D:\UnrealEnginePlugins\UnrealEnginePluginsDemo-5.6\SurfaceAIDemo\Source\SurfaceAIDemo\SurfaceAIDemoGameModeBase.cpp 
+ 

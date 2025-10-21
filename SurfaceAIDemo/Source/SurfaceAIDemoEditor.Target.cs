@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class SurfacePathfindingDemoTarget : TargetRules
+public class SurfaceAIDemoEditorTarget : TargetRules
 {
-	public SurfacePathfindingDemoTarget( TargetInfo Target) : base(Target)
+	public SurfaceAIDemoEditorTarget( TargetInfo Target) : base(Target)
 	{
-		Type = TargetType.Game;
+		Type = TargetType.Editor;
         DefaultBuildSettings = BuildSettingsVersion.Latest;
         IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
-        ExtraModuleNames.AddRange( new string[] { "SurfacePathfindingDemo" } );
+        ExtraModuleNames.AddRange( new string[] { "SurfaceAIDemo" } );
 	}
 }
