@@ -1,4 +1,4 @@
-// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
+﻿// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
 
 #include "SurfaceAIDemo.h"
 #include "Modules/ModuleManager.h"
