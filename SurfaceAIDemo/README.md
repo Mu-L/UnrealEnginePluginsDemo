@@ -1,10 +1,10 @@
 # SurfaceAIDemo
 
 plugin link 插件链接:\
-[虚幻商场插件 链接](https://www.unrealengine.com/marketplace/zh-CN/product/primitive-draw-line-geometry)\
-[LINK for plugin in Fab](https://www.unrealengine.com/marketplace/zh-CN/product/primitive-draw-line-geometry)\
-[视频教程 1 链接](https://www.bilibili.com/video/BV1dM411a7Q2/?share_source=copy_web\&vd_source=74c5a7ee7e63695eed9e0f75ba7bbc88)\
-[video tutorial 1 LINK](https://youtu.be/VzpxfjglunM)
+[虚幻商场插件 链接](https://www.fab.com/zh-cn/listings/601dea31-acaa-4c41-a2ed-027c491b14c8)\
+[LINK for plugin in Fab](https://www.fab.com/zh-cn/listings/601dea31-acaa-4c41-a2ed-027c491b14c8)\
+[视频教程 1 链接](https://www.bilibili.com/video/BV1m21KB5EMX/)\
+[video tutorial 1 LINK](https://youtu.be/fUlKvBIoBOw?si=km3v4QeZo4k5fded)
 
 # Generate Surface Data:
 
