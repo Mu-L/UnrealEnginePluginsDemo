@@ -2,6 +2,9 @@
 All Demos of Plugins In Fab
 plugins download link:
 
+Surface AI    
+https://www.fab.com/zh-cn/listings/601dea31-acaa-4c41-a2ed-027c491b14c8   
+
 Protobuf    
 https://www.fab.com/zh-cn/listings/06df95a3-2e81-42da-b5ac-f1a1714fcc0c   
 
