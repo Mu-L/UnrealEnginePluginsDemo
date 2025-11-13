@@ -1,4 +1,4 @@
-// Copyright 2025 (c) Tangha Technologies, LLC. All Rights Reserved.
+// Copyright 2025 (c) Tangha Technology (suzhou) Co., Ltd. All Rights Reserved.
 
 
 #include "SteamSessionGameMode.h"
