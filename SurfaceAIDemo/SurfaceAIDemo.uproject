@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -17,7 +17,13 @@
 		{
 			"Name": "SurfaceAI",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5c0c9dc63ab54c4384e7240f117891c2"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5c0c9dc63ab54c4384e7240f117891c2",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"Mac",
+				"IOS"
+			]
 		}
 	]
 }

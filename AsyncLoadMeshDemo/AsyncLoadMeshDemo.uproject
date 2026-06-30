@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -14,7 +14,10 @@
 		{
 			"Name": "AsyncLoadMesh",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3bf2df93d5d34d95b68ba82eca0ca7e7"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3bf2df93d5d34d95b68ba82eca0ca7e7",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }

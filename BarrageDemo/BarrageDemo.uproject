@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -14,7 +14,12 @@
 		{
 			"Name": "Barrage",
 			"Enabled": true,
-			"FabURL": "com.epicgames.launcher://ue/Fab/product/8ab1db52-91d7-4cc6-9636-9fffe6d3fb2c"
+			"FabURL": "com.epicgames.launcher://ue/Fab/product/8ab1db52-91d7-4cc6-9636-9fffe6d3fb2c",
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS",
+				"Win64"
+			]
 		}
 	]
 }

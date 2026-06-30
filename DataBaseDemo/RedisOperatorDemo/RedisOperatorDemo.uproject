@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -21,7 +21,10 @@
 		{
 			"Name": "RedisOperator",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f0b2a49a6e92471f84d628cecfea81fc"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f0b2a49a6e92471f84d628cecfea81fc",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }

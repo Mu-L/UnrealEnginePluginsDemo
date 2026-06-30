@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -21,7 +21,10 @@
 		{
 			"Name": "MySqlOperator",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/65593fb806fa451e9485e3978feeb86c"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/65593fb806fa451e9485e3978feeb86c",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
