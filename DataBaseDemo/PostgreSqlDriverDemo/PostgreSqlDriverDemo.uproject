@@ -14,7 +14,10 @@
 		{
 			"Name": "PostgreSqlDriver",
 			"Enabled": true,
-			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/slug/380fb3f45b2b48b491801c0a39b3e698"
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/slug/380fb3f45b2b48b491801c0a39b3e698",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }

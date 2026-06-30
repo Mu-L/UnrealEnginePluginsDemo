@@ -14,7 +14,12 @@
 		{
 			"Name": "RestfulClient",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d130692de0c4d93a4dc04ad5b01fc40"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d130692de0c4d93a4dc04ad5b01fc40",
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS",
+				"Win64"
+			]
 		}
 	]
 }

@@ -14,7 +14,13 @@
 		{
 			"Name": "WebSocketClient",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/586162969e9d405993c8e4b61ca93e8e"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/586162969e9d405993c8e4b61ca93e8e",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android",
+				"Mac",
+				"IOS"
+			]
 		}
 	]
 }

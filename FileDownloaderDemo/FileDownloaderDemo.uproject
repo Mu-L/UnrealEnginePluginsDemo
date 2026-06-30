@@ -17,7 +17,12 @@
 		{
 			"Name": "FileDownloader",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4b8c39e8f1ff4e25be2ea3b85b0e28ee"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4b8c39e8f1ff4e25be2ea3b85b0e28ee",
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS",
+				"Win64"
+			]
 		},
 		{
 			"Name": "ModelingToolsEditorMode",

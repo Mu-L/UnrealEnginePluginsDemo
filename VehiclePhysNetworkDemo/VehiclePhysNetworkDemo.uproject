@@ -21,7 +21,12 @@
 		{
 			"Name": "VehiclePhysNetwork",
 			"Enabled": true,
-			"MarketplaceURL": ""
+			"MarketplaceURL": "",
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS",
+				"Win64"
+			]
 		}
 	]
 }
